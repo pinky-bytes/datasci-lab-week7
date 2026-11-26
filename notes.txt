@@ -1,3 +1,4 @@
 ﻿Week 7 Data Science Lab Log
 Iteration 2: Tuned hyperparameters.
 Docs: Added branch workflow notes.
+Experiment 3: Testing ensemble model...
